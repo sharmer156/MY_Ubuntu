@@ -7,10 +7,10 @@
 
 $ vim /etc/profile
 
-# 在里面加入：
+ 在里面加入：
 
 export PATH=home/（用户名）/.local/bin:$PATH
 
-# 使生效
+ 使生效
 
 source profile
